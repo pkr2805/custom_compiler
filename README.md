@@ -1,4 +1,4 @@
-# custom_compiler
+# Custom_compiler
 This project implements a custom compiler for a simple programming language. The compiler consists of three main phases: Lexer, Parser, and Code Generator. It takes code written in a custom language and translates it into executable JavaScript code.
 
 ## Overview
